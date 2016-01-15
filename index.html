@@ -14,7 +14,8 @@ layout: default
 
 <div class="wrapper">
 
-{% markdown frontpage.md %}
+{% capture my-include %}{% include frontpage.md %}{% endcapture %}
+{{ my-include | markdownify }}
 
 </div>
 </div>
