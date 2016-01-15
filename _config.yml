@@ -35,7 +35,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: stuartstent
+disqus_shortname: haveducttapewilltravel
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
