@@ -4,14 +4,22 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+** 2011 ** - Raced for the Australian Bobsled team
+** 2016 ** - Drive a Rickshaw 1600 Miles across India
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+On this day in 2011, Alex and I hurtled down a bobsled track as members of the Australian Bobsled team. This year we plan on ~~hurtling~~ spluttering 1600 miles across India in a 7 horsepower Rickshaw. We have no planned route, accommodation, or support crew, and we’ve never driven a Rickshaw before. We just have a start and finish line - two weeks and 1600 miles apart.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We’re not doing this because we’re silly idiots (but it helps), we’re doing this to raise money for the Elhers-Danlos National Foundation (EDNF).
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Last year my partner and Alex's sister Sarah was diagnosed with Elhers-Danlos Syndrome (EDS). EDS is a rare connective tissue disorder which causes a great deal of pain and dysfunction in those afflicted. While there is no 'cure', there is much we can do to get her back on her feet and healthy again. We now rely on the efforts of groups like the EDNF to find medical professionals and support organisations to help us along that path. This is the best way we can think of to help them help us.
+
+We’re asking for you help in raising some much needed money for the EDNF. To encourage your generosity we have devised a few incentives:
+
+** $50 USD ** - Your name on a piece of Duct Tape which we will stick on the Rickshaw. This will serve the added benefit of enhancing the structural integrity of our Rickshaw!
+
+** $100 USD ** - You send us a picture of yourself and we’ll take a “group photo” with you in front of the Taj Mahal (if we make it that far).
+
+** $500 USD ** - You can pick what silly costume we wear for a whole day (must be Safe-For-Work & India)** [limited availability]
+
+ ** Must be easily procured, transportable to India - common sense stuff
