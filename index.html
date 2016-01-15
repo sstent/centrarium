@@ -4,6 +4,12 @@ layout: default
 <div class="home">
 
 <div class="wrapper">
+
+<section class="post-meta">
+    <h1 class="title">The Beginning</h1>
+    <div class="post-date">January 16, 2016</div>
+  </section>
+
   <article class="post-content">
     {% capture my_include %}{% include frontpage.md %}{% endcapture %}
     {{ my_include | markdownify }}

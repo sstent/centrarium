@@ -1,6 +1,3 @@
-# The Beginning
-### January 16, 2016
-
 **2011** - Raced for the Australian Bobsled team
 
 **2016** - Drive a Rickshaw 1600 Miles across India
