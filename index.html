@@ -14,6 +14,7 @@ layout: default
 
 <div class="wrapper">
 Beep
-{% include frontpage.md | markdownify %}
+{% capture my_include %}{% include frontpage.md %}{% endcapture %}
+{{ my_include | markdownify }}
 </div>
 </div>
