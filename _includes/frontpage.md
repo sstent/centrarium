@@ -1,7 +1,7 @@
 **2011** - Raced for the Australian Bobsled team  
 **2016** - Drive a Rickshaw 1600 Miles across India
 
-On this day in 2011, Alex and I hurtled down a bobsled track as members of the Australian Bobsled team. This year we plan on ~~hurtling~~ spluttering 1600 miles across India in a 7 horsepower Rickshaw. We have no planned route, accommodation, or support crew, and we’ve never driven a Rickshaw before. We just have a start and finish line - two weeks and 1600 miles apart.
+On this day in 2011, Alex and I hurtled down a bobsled track as members of the Australian Bobsled team. This year we plan on <strike>hurtling</strike> spluttering 1600 miles across India in a 7 horsepower Rickshaw. We have no planned route, accommodation, or support crew, and we’ve never driven a Rickshaw before. We just have a start and finish line - two weeks and 1600 miles apart.
 
 <img src="//sstent.github.io/centrarium/assets/here_to_here_map.jpg" title="Comical Map of The Trip">
 
