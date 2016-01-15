@@ -15,6 +15,6 @@ We’re asking for you help in raising some much needed money for the EDNF. To e
 
 **$100 USD** - You send us a picture of yourself and we’ll take a “group photo” with you in front of the Taj Mahal (if we make it that far).
 
-**$500 USD** - You can pick what silly costume we wear for a whole day (must be Safe-For-Work & India)** [limited availability]
+**$500 USD** - You can pick what silly costume we wear for a whole day (must be Safe-For-Work & India)**
 
 ** *Must be easily procured, transportable to India - common sense stuff*
