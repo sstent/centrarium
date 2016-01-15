@@ -265,7 +265,11 @@ pre code.hljs {
 		}
 		.post-content {
 			padding: 1em 0;
+            @include span-columns(9);
 		}
+        .sidebar {
+            @include span-columns(3);
+        }
 		.tags {
 			font-size: 0.9em;
 		}
