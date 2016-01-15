@@ -1,5 +1,3 @@
-**OOK**
-
 **2011** - Raced for the Australian Bobsled team
 
 **2016** - Drive a Rickshaw 1600 Miles across India
