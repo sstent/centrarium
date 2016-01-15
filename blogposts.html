@@ -14,7 +14,7 @@ permalink: /Blog/
 	{% endfor %}
  -->
  	<ul class="posts-list">
-	{% for post in site %}
+	{% for post in site.posts %}
 		<li>
 			<strong>
 				<a href="{{ post.url | remove_first: '/' | prepend: site.baseurl }}">{{ post.title }}</a>
