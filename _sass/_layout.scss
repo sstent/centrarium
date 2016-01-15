@@ -76,6 +76,8 @@ pre code.hljs {
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
+        height: 300px;
+        background-position: bottom;
 		background-size: cover;
 		.title {
 			font-size: modular-scale(12);
@@ -94,8 +96,11 @@ pre code.hljs {
 			}
 		}
 	}
-    a {color: $white;
-        text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;}
+    a {
+        color: $white;
+        text-decoration: none;
+        text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
+        }
 }
 
 /*
