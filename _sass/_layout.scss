@@ -270,6 +270,7 @@ pre code.hljs {
 		}
 		.post-meta {
 			padding-bottom: 1em;
+            @include span-columns(9);
 		}
 		.post-content {
 			padding: 1em 0;
@@ -283,16 +284,16 @@ pre code.hljs {
 		}
 		.rss {
 			margin: 1em 0 0 0;
-			@include span-columns(12);
 			@include media ($tablet) {
 				margin: 1em 0;
 				@include span-columns(6);
 			}
+            @include span-columns(9);
 		}
 		.share {
 			font-weight: bold;
 			margin: 0 0 1em 0;
-			@include span-columns(12);
+			@include span-columns(9);
 			@include media ($tablet) {
 				@include span-columns(6);
 				margin: 1em 0;
@@ -305,7 +306,7 @@ pre code.hljs {
 			}
 		}
 		.disqus {
-			@include span-columns(12);
+			@include span-columns(9);
 		}
 	}
 	/*
